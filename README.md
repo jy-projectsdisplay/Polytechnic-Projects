@@ -1,2 +1,1 @@
-# Polytechnic-Projects
-This project is about me conducting data analytics on a dataset using Knime to uncover insights about the dataset. This includes using skills such as clustering and regression to uncover specific insights and patterns. Afterwards, using Power BI to create a dashboard on clusters to do a specific report. More details can be found on the project report. Attached is the completed Knime workflow file, file may not function as expected as the original dataset has been modified.
+
